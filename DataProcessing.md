@@ -28,5 +28,13 @@ We can set threshold to define an outlier and get rid of them
 
 
 Feature Engineering
+I. MAke features clean and consist
+I.1 Scaling - std values of data in to a specific range. E.g. Revenue, spend, discount, etc.
+I.2 Encoding - transform categorial data to numerial data - Gene of the movie, datetime of the movie.
+I.3 Discretization - For interpretation
+I.4 Dimension Reduction - For those with high correlations, e.g. Spend and Revenue, perform PCA to reduce the dimension while keeping the information.
+I.5 Handle text - In this case, encoding with gene of the movie to values.
+
+II. Create new features
 
 Feature Selection
