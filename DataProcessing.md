@@ -63,6 +63,10 @@ ROC
 **Model Tuning** 
 With Grid Search, we tuned with maximum Tree depth and branching options.
 
+**Improvement**
+![image](https://user-images.githubusercontent.com/32372822/144924154-cebc6122-6afe-4867-a532-f99cc60e3f4f.png)
+
+
 
 
 
