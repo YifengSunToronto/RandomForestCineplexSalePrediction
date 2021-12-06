@@ -58,6 +58,7 @@ Precision
 Senstivity
 F1-Score
 ROC
+![image](https://user-images.githubusercontent.com/32372822/144923954-d23254a7-5798-4edc-ad39-993c29e254f3.png)
 
 **Model Tuning** 
 With Grid Search, we tuned with maximum Tree depth and branching options.
