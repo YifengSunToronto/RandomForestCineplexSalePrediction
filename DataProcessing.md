@@ -45,3 +45,27 @@ Didn't do too well.
 **II. Wrapper**
 Backwards selection by removing the least important features and keep those important ones. 
 
+----------------------
+**Modeling**
+We compare RandomForest and AdaBoost. End with Random Forest for better interpretation.
+**Training**
+Using ScikitLearn packages, we split dataset to 10 10 80 for testing, validation and training
+We limit the depth of the RandomForest.
+
+**Validation**
+We focus on the following metrics of classfication.
+Precision
+Senstivity
+F1-Score
+ROC
+
+**Model Tuning** 
+With Grid Search, we tuned with maximum Tree depth and branching options.
+
+
+
+
+
+
+
+
