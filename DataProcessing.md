@@ -36,5 +36,12 @@ I.4 Dimension Reduction - For those with high correlations, e.g. Spend and Reven
 I.5 Handle text - In this case, encoding with gene of the movie to values.
 
 II. Create new features
+II.1  Create aggregated values. E.g. Kiddie Tray purchase in the past 10 visits, Count of fountain drink, Movie Gene of the past 10 visits,
+II.2 
 
 Feature Selection
+I. Filter
+Didn't do too well.
+II. Wrapper
+Backwards selection by removing the least important features and keep those important ones. 
+
